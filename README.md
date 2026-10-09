@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi, i am lalit nandan<br>Currently working as a Full Stack Trainee in Cadera infotech pvt ltd<br>a passonate full stack developer <br>want to work with rag, LLM models , generative ai<br><br>to colab lalitnandan19@gmail.com<br>Ask  chatgpt not me<br>
+hi, i am lalit nandan<br>Currently working as a Full Stack Trainee in Cadera infotech pvt ltd<br>a passonate full stack developer <br>want to work with RAG, LLM models , generative ai<br><br>to colab lalitnandan19@gmail.com<br>My servers never go down... but I do!<br>
 
 
 ## 🌐 Socials:
